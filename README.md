@@ -1,1 +1,1 @@
-# devnugget-journey
+# DevNugget Journey
